@@ -4,11 +4,9 @@ Interactive Three.js demo: mangrove tree + leaf breathing page.
 
 ## Live demo
 
-After GitHub Pages is enabled, open:
+https://jia4646-hub.github.io/mangrove-3d-demo/
 
-`https://<your-username>.github.io/mangrove-3d-demo/`
-
-Leaf page: `https://<your-username>.github.io/mangrove-3d-demo/leaf.html`
+Leaf page: https://jia4646-hub.github.io/mangrove-3d-demo/leaf.html
 
 ## Local
 
